@@ -15,17 +15,31 @@
       A. 自分が公開しているSSを登場アイドルなどで検索できる簡易ツールです。
     </h3>
     <p>登場アイドルのほかに投稿日やシリーズ、一次作品で検索などもできます。</p>
-    <table>
-        <caption>作品表示用テーブル</caption>
+    <span>検索用ボックス</span>
+    <span>
+      <select title="検索する情報を選んでください" name="selector" id="type_select">
+        <option value="0">通し番号</option>
+        <option value="1">作品名</option>
+        <option value="2">投稿日</option>
+        <option value="3">登場人物</option>
+        <option value="4">シリーズ</option>
+        <option value="5">一次作品</option>
+      </select>
+    </span>
+    <span><input title="検索文字列を入力してください" type="text" name="" id=""></span>
+    <table border="2">
+        <caption>ここに詳細が表示されます。</caption>
       <thead>
         <tr>
-          <th style="text-align: center">通し番号</th>
-          <th style="text-align: center">作品名</th>
-          <th style="text-align: center">投稿日</th>
-          <th style="text-align: center">登場アイドル</th>
+          <th>通し番号</th>
+          <th>作品名</th>
+          <th>投稿日</th>
+          <th>登場人物</th>
+          <th>シリーズ</th>
+          <th>一次作品</th>
         </tr>
       </thead>
-      <tbody>
+      <tbody id="detailTable">
       </tbody>
     </table>
   </body>

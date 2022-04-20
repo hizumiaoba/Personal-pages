@@ -1,3 +1,13 @@
 .title {
     margin-top: auto;
 }
+
+th {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color: rgb("4e", "48", "86");
+}
