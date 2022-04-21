@@ -24,6 +24,20 @@
     "むつみ「甘い、それでいて苦い」",
     "氏家むつみ、23歳"
   ],
+  "primaries": [
+    "アイドルマスター シンデレラガールズ",
+    "Arcaea",
+    "Apex Legends",
+    "なし"
+  ],
+  "serieses": [
+    "モバマス×Arcaea",
+    "氏家むつみの日記帳",
+    "読み切り集",
+    "氏家むつみの日記帳 Another Diary",
+    "Legends of Cinderella!!!",
+    "なし"
+  ],
   "detail": {
     "0": {
       "title": "光 対立「ここ、どこ？」",
@@ -46,6 +60,213 @@
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT",
         "Arcaea by Lowiro"
+      ]
+    },
+    "1": {
+      "title": "対立「知らない貴方と知らない街並み",
+      "pubDate": "2020-08-30",
+      "idols": [
+        "対立",
+        "鷺沢文香",
+        "氏家むつみ",
+        "日野茜",
+        "佐久間まゆ",
+        "P",
+        "光"
+      ],
+      "series": "モバマス×Arcaea",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT",
+        "Arcaea by Lowiro"
+      ]
+    },
+    "2": {
+      "title": "P「異世界からの来訪者？」ちひろ「今更ですね」",
+      "pubDate": "2020-11-14",
+      "idols": [
+        "対立",
+        "光",
+        "紅",
+        "彩夢",
+        "叶永",
+        "渋谷凛",
+        "三村かな子",
+        "P",
+        "千川ちひろ",
+        "ベテラントレーナー"
+      ],
+      "series": "モバマス×Arcaea",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT",
+        "Arcaea by Lowiro"
+      ]
+    },
+    "3": {
+      "title": "対立「クリスマス」光「パーティー？」",
+      "pubDate": "2020-12-25",
+      "idols": [
+        "対立",
+        "光",
+        "島村卯月",
+        "渋谷凛",
+        "本田未央",
+        "鷺沢文香",
+        "P"
+      ],
+      "series": "モバマス×Arcaea",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT",
+        "Arcaea by Lowiro"
+      ]
+    },
+    "4": {
+      "title": "氏家むつみ「冒険。そして」",
+      "pubDate": "2021-01-05",
+      "idols": [
+        "氏家むつみ",
+        "司書",
+        "P",
+        "むつみ父",
+        "むつみ母"
+      ],
+      "series": "読み切り集",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
+      ]
+    },
+    "5": {
+      "title": "氏家むつみ「Pさんとお出かけしたいです！！！」",
+      "pubDate": "2021-02-18",
+      "idols": [
+        "氏家むつみ",
+        "P"
+      ],
+      "series": "氏家むつみの日記帳",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
+      ]
+    },
+    "6": {
+      "title": "悠貴「Pさんの」ほたる「お家を」むつみ「探ります！」",
+      "pubDate": "2021-03-12",
+      "idols": [
+        "氏家むつみ",
+        "乙倉悠貴",
+        "白菊ほたる",
+        "佐久間まゆ",
+        "P"
+      ],
+      "series": "氏家むつみの日記帳",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
+      ]
+    },
+    "7": {
+      "title": "P「」ｸﾞﾃﾞｰﾝ むつみ「Pさん！？！？！？」",
+      "pubDate": "2021-04-12",
+      "idols": [
+        "氏家むつみ",
+        "P",
+        "一ノ瀬志希"
+      ],
+      "series": "氏家むつみの日記帳 Another Diary",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
+      ]
+    },
+    "8": {
+      "title": "文香「夜あけのさよなら」",
+      "pubDate": "2021-04-22",
+      "idols": [
+        "鷺沢文香",
+        "相葉夕美",
+        "P",
+        "五十嵐響子",
+        "小日向美穂"
+      ],
+      "series": "読み切り集",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
+      ]
+    },
+    "9": {
+      "title": "むつみ「が、がんばってみます…！」P「うん、よろしくな」",
+      "pubDate": "2021-04-24",
+      "idols": [
+        "氏家むつみ",
+        "P",
+        "日野茜"
+      ],
+      "series": "氏家むつみの日記帳",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
+      ]
+    },
+    "10": {
+      "title": "むつみ「冒険と」文香「物語」",
+      "pubDate": "2021-05-09",
+      "idols": [
+        "氏家むつみ",
+        "鷺沢文香",
+        "P",
+        "成宮由愛",
+        "鷹富士茄子",
+        "高垣楓"
+      ],
+      "series": "読み切り集",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
+      ]
+    },
+    "11": {
+      "title": "鷺沢文香「ガラスの靴」",
+      "pubDate": "2021-06-10",
+      "idols": [
+        "鷺沢文香",
+        "P",
+        "北条加蓮",
+        "一ノ瀬志希",
+        "神谷奈緒",
+        "高垣楓"
+      ],
+      "series": "読み切り集",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
+      ]
+    },
+    "12": {
+      "title": "対立「身体が？」光「ちっちゃくなっちゃった！」",
+      "pubDate": "2021-06-17",
+      "idols": [
+        "対立",
+        "光",
+        "島村卯月",
+        "本田未央",
+        "紅",
+        "彩夢",
+        "叶永"
+      ],
+      "series": "モバマス×Arcaea",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT",
+        "Arcaea by Lowiro"
+      ]
+    },
+    "13": {
+      "title": "むつみ「絶好調ですっ！」ほたる「私も、です…！」",
+      "pubDate": "2021-06-21",
+      "idols": [
+        "氏家むつみ",
+        "白菊ほたる",
+        "乙倉悠貴",
+        "岡崎泰葉",
+        "関裕美",
+        "松尾千鶴",
+        "鷺沢文香"
+      ],
+      "series": "読み切り集",
+      "primary": [
+        "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
       ]
     }
   }
