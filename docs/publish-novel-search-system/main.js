@@ -33,7 +33,7 @@ function createTableBody(detail, num) {
     tdNumber.innerText = index;
     tdTitle.innerText = detail[num].title;
     tdUploadDate.innerText = detail[num].pubDate;
-    tdIdols.innerText = detail[num].idols;
+    tdIdols.innerText = detail[num].idols.toString().replaceAll(",", ", ");
     tdSeries.innerText = detail[num].series;
     var primary = detail[num].primary;
     tdPrimary.innerText = primary.toString().replaceAll(",", "\n");
