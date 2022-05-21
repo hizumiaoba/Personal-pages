@@ -4,10 +4,45 @@
 
 th {
     text-align: center;
+    color: white;
+    background-color: #4e4886
 }
 
 table {
     border-collapse: collapse;
-    width: 100%;
-    color: rgb("4e", "48", "86");
 }
+
+tr:nth-child(odd) {
+    background-color: #ddd;
+}
+
+#implementingWarn {
+    color: red;
+}
+ 
+  table {
+    margin: 20px auto;
+  }
+  .tbl-r02 th {
+    border: solid 1px #ccc;
+    color: #fff;
+    padding: 10px;
+  }
+  .tbl-r02 td {
+    padding: 10px;
+  }
+  
+  @media screen and (max-width: 1000px) {
+    .last td:last-child {
+      border-bottom: solid 1px #ccc;
+      width: 100%;
+    }
+    .tbl-r02 {
+      width: 80%;
+    }
+    .tbl-r02 th,
+    .tbl-r02 td {
+      display: block;
+    }
+  }
+  

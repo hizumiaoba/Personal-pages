@@ -4,7 +4,7 @@ function onLoadFunc() {
         .then(json => {
             const namesArray = json.titles;
             const workDetails = json.detail;
-            for(let i = 0; i < namesArray.length; i++) {
+            for(let i = 0; i <= namesArray.length; i++) {
                 const trElement = createTableBody(workDetails, i);
                 document.getElementById('detailTable').appendChild(trElement);
             }
@@ -33,9 +33,10 @@ function createTableBody(detail, num) {
     tdNumber.innerText = index;
     tdTitle.innerText = detail[num].title;
     tdUploadDate.innerText = detail[num].pubDate;
-    tdIdols.innerText = detail[num].idols;
+    tdIdols.innerText = detail[num].idols.toString().replaceAll(",", ", ");
     tdSeries.innerText = detail[num].series;
-    tdPrimary.innerText = detail[num].primary;
+    var primary = detail[num].primary;
+    tdPrimary.innerText = primary.toString().replaceAll(",", "\n");
     trElement.appendChild(tdNumber);
     trElement.appendChild(tdTitle);
     trElement.appendChild(tdUploadDate);
