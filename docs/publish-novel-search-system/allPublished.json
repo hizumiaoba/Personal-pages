@@ -22,7 +22,8 @@
     "P「まずった…」",
     "One Producer, One World",
     "むつみ「甘い、それでいて苦い」",
-    "氏家むつみ、23歳"
+    "氏家むつみ、23歳",
+    "小春「ヒョウ君と～」むつみ「冒険ですか！？」"
   ],
   "primaries": [
     "アイドルマスター シンデレラガールズ",
@@ -37,6 +38,32 @@
     "氏家むつみの日記帳 Another Diary",
     "Legends of Cinderella!!!",
     "なし"
+  ],
+  "links": [
+    "https://www.pixiv.net/novel/show.php?id=13492254",
+    "https://www.pixiv.net/novel/show.php?id=13621178",
+    "https://www.pixiv.net/novel/show.php?id=14082233",
+    "https://www.pixiv.net/novel/show.php?id=14326424",
+    "https://www.pixiv.net/novel/show.php?id=14408772",
+    "https://www.pixiv.net/novel/show.php?id=14695574",
+    "https://www.pixiv.net/novel/show.php?id=14837809",
+    "https://www.pixiv.net/novel/show.php?id=15035155",
+    "https://www.pixiv.net/novel/show.php?id=15089173",
+    "https://www.pixiv.net/novel/show.php?id=15098873",
+    "https://www.pixiv.net/novel/show.php?id=15201230",
+    "https://www.pixiv.net/novel/show.php?id=15398089",
+    "https://www.pixiv.net/novel/show.php?id=15440659",
+    "https://www.pixiv.net/novel/show.php?id=15468865",
+    "https://www.pixiv.net/novel/show.php?id=15601369",
+    "https://www.pixiv.net/novel/show.php?id=15688549",
+    "https://www.pixiv.net/novel/show.php?id=15756380",
+    "https://www.pixiv.net/novel/show.php?id=15863808",
+    "https://www.pixiv.net/novel/show.php?id=16068793",
+    "https://www.pixiv.net/novel/show.php?id=16270146",
+    "https://www.pixiv.net/novel/show.php?id=16790295",
+    "https://www.pixiv.net/novel/show.php?id=17006459",
+    "https://www.pixiv.net/novel/show.php?id=17414752",
+    "https://www.pixiv.net/novel/show.php?id=17491560"
   ],
   "detail": {
     "0": {
@@ -122,13 +149,7 @@
     "4": {
       "title": "氏家むつみ「冒険。そして」",
       "pubDate": "2021-01-05",
-      "idols": [
-        "氏家むつみ",
-        "司書",
-        "P",
-        "むつみ父",
-        "むつみ母"
-      ],
+      "idols": ["氏家むつみ", "司書", "P", "むつみ父", "むつみ母"],
       "series": "読み切り集",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
@@ -137,10 +158,7 @@
     "5": {
       "title": "氏家むつみ「Pさんとお出かけしたいです！！！」",
       "pubDate": "2021-02-18",
-      "idols": [
-        "氏家むつみ",
-        "P"
-      ],
+      "idols": ["氏家むつみ", "P"],
       "series": "氏家むつみの日記帳",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
@@ -149,13 +167,7 @@
     "6": {
       "title": "悠貴「Pさんの」ほたる「お家を」むつみ「探ります！」",
       "pubDate": "2021-03-12",
-      "idols": [
-        "氏家むつみ",
-        "乙倉悠貴",
-        "白菊ほたる",
-        "佐久間まゆ",
-        "P"
-      ],
+      "idols": ["氏家むつみ", "乙倉悠貴", "白菊ほたる", "佐久間まゆ", "P"],
       "series": "氏家むつみの日記帳",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
@@ -164,11 +176,7 @@
     "7": {
       "title": "P「」ｸﾞﾃﾞｰﾝ むつみ「Pさん！？！？！？」",
       "pubDate": "2021-04-12",
-      "idols": [
-        "氏家むつみ",
-        "P",
-        "一ノ瀬志希"
-      ],
+      "idols": ["氏家むつみ", "P", "一ノ瀬志希"],
       "series": "氏家むつみの日記帳 Another Diary",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
@@ -177,13 +185,7 @@
     "8": {
       "title": "文香「夜あけのさよなら」",
       "pubDate": "2021-04-22",
-      "idols": [
-        "鷺沢文香",
-        "相葉夕美",
-        "P",
-        "五十嵐響子",
-        "小日向美穂"
-      ],
+      "idols": ["鷺沢文香", "相葉夕美", "P", "五十嵐響子", "小日向美穂"],
       "series": "読み切り集",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
@@ -192,11 +194,7 @@
     "9": {
       "title": "むつみ「が、がんばってみます…！」P「うん、よろしくな」",
       "pubDate": "2021-04-24",
-      "idols": [
-        "氏家むつみ",
-        "P",
-        "日野茜"
-      ],
+      "idols": ["氏家むつみ", "P", "日野茜"],
       "series": "氏家むつみの日記帳",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
@@ -237,15 +235,7 @@
     "12": {
       "title": "対立「身体が？」光「ちっちゃくなっちゃった！」",
       "pubDate": "2021-06-17",
-      "idols": [
-        "対立",
-        "光",
-        "島村卯月",
-        "本田未央",
-        "紅",
-        "彩夢",
-        "叶永"
-      ],
+      "idols": ["対立", "光", "島村卯月", "本田未央", "紅", "彩夢", "叶永"],
       "series": "モバマス×Arcaea",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT",
@@ -272,10 +262,7 @@
     "14": {
       "title": "むつみ「Pさ～んっ」P「なんだー？」",
       "pubDate": "2021-07-13",
-      "idols": [
-        "氏家むつみ",
-        "P"
-      ],
+      "idols": ["氏家むつみ", "P"],
       "series": "読み切り集",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
@@ -284,11 +271,7 @@
     "15": {
       "title": "対立「私達の」光「お家」！！！",
       "pubDate": "2021-07-27",
-      "idols": [
-        "対立",
-        "光",
-        "佐久間まゆ"
-      ],
+      "idols": ["対立", "光", "佐久間まゆ"],
       "series": "モバマス×Arcaea",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT",
@@ -298,10 +281,7 @@
     "16": {
       "title": "むつみ「Pさん、どうぞっ」",
       "pubDate": "2021-08-07",
-      "idols": [
-        "氏家むつみ",
-        "P"
-      ],
+      "idols": ["氏家むつみ", "P"],
       "series": "氏家むつみの日記帳 Another Diary",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
@@ -342,16 +322,10 @@
         "Apex Legends by Respawn Entertainment"
       ]
     },
-    "19" : {
+    "19": {
       "title": "P「まずった…」",
       "pubDate": "2021-10-22",
-      "idols": [
-        "氏家むつみ",
-        "古賀小春",
-        "成宮由愛",
-        "P",
-        "千川ちひろ"
-      ],
+      "idols": ["氏家むつみ", "古賀小春", "成宮由愛", "P", "千川ちひろ"],
       "series": "氏家むつみの日記帳 Another Diary",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
@@ -375,7 +349,7 @@
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
       ]
     },
-    "21" : {
+    "21": {
       "title": "むつみ「甘い、それでいて苦い」",
       "pubDate": "2022-02-14",
       "idols": [
@@ -397,26 +371,16 @@
     "22": {
       "title": "氏家むつみ、23歳。",
       "pubDate": "2022-04-17",
-      "idols": [
-        "氏家むつみ",
-        "白菊ほたる",
-        "古賀小春",
-        "P"
-      ],
+      "idols": ["氏家むつみ", "白菊ほたる", "古賀小春", "P"],
       "series": "読み切り集",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
       ]
     },
-    "23" : {
+    "23": {
       "title": "小春「ヒョウ君と～」むつみ「冒険ですか！？」",
       "pubDate": "2022-04-30",
-      "idols": [
-        "氏家むつみ",
-        "古賀小春",
-        "P",
-        "おばあさん（モブ）"
-      ],
+      "idols": ["氏家むつみ", "古賀小春", "P", "おばあさん（モブ）"],
       "series": "読み切り集",
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
