@@ -23,7 +23,8 @@
     "One Producer, One World",
     "むつみ「甘い、それでいて苦い」",
     "氏家むつみ、23歳",
-    "小春「ヒョウ君と～」むつみ「冒険ですか！？」"
+    "小春「ヒョウ君と～」むつみ「冒険ですか！？」",
+    "氏家むつみ「10年間の大冒険」"
   ],
   "primaries": [
     "アイドルマスター シンデレラガールズ",
@@ -63,7 +64,8 @@
     "https://www.pixiv.net/novel/show.php?id=16790295",
     "https://www.pixiv.net/novel/show.php?id=17006459",
     "https://www.pixiv.net/novel/show.php?id=17414752",
-    "https://www.pixiv.net/novel/show.php?id=17491560"
+    "https://www.pixiv.net/novel/show.php?id=17491560",
+    "https://www.pixiv.net/novel/show.php?id=17950065"
   ],
   "detail": {
     "0": {
@@ -385,6 +387,15 @@
       "primary": [
         "アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
       ]
+    },
+    "24" :{
+	"title": "氏家むつみ「10年間の大冒険」",
+	"pubDate": "2022-07-13",
+	"idols": ["氏家むつみ", "P", "古賀小春", "成宮由愛", "司会"],
+	"series": "読み切り集",
+	"primary": [
+		"アイドルマスター シンデレラガールズ by BANDAI NAMCO ENTERTAINMENT"
+	]
     }
   }
 }
