@@ -1,11 +1,10 @@
-p {
+.header_centered {
     margin-left: auto;
     margin-right: auto;
     width: max-content;
 }
 
-.header_centered {
-    margin-left: auto;
-    margin-right: auto;
-    width: max-content;
+#logo {
+    width: 400px;
+    height: 200px;
 }
