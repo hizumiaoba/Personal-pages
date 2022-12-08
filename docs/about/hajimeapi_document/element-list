@@ -1,0 +1,10 @@
+hajimeapi4j.api.endpoint
+hajimeapi4j.api.request
+hajimeapi4j.exception
+hajimeapi4j.internal.builder
+hajimeapi4j.internal.datatype
+hajimeapi4j.internal.datatype.utilizations
+hajimeapi4j.internal.endpoint
+hajimeapi4j.internal.request
+hajimeapi4j.util
+hajimeapi4j.util.enums
